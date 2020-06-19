@@ -33,11 +33,6 @@ function createDirectory (array $tabs, $dir=false) {
   }
 }
 
-// Update Directory structure
-function updateDirectory (array $tabs, $dir=false) {
-
-}
-
 // Run action
 function run () {
 
